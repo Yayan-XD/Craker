@@ -37,7 +37,7 @@ Cloning grub dn total followers auto banjir akun fb xixixi
 </div>
 <p align="center">
 
-<img src="https://github.com/Yayan-XD/Craker/blob/master/Screenshot_20200923_031734-picsay.png" />
+<img src="https://github.com/Yayan-XD/Craker/blob/master/Screenshot_20200928_072224-picsay.png" />
 
 ### Fitures
 ```
