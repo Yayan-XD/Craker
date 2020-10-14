@@ -66,31 +66,6 @@ pip2 install requests
 pip2 install mechanize
 python2 Craker.py
 ```
-## How to get Access Token
-1. Download Aplikasi Kiwi Browser & Buka
-<img src="https://github.com/vrhasya/666/blob/master/1.png" />
-
-2. [Download](https://chrome.google.com/webstore/detail/multiple-tools-for-facebo/eojdckfcadamkapabechhbnkleligand) Multi Tools For Facebook Di Aplikasi Kiwi Browser & Klik Tambahkan ke Chrome
-<img src="https://github.com/vrhasya/666/blob/master/2.png" />
-
-3. Login Akun Facebook Anda ( Tumbal / Old Account )
-<img src="https://github.com/vrhasya/666/blob/master/3.png" />
-
-4. Klik Titik 3
-<img src="https://github.com/vrhasya/666/blob/master/4.png" />
-
-5. Scroll & Cari Ekstensi Multiple Tools for Facebook yang sudah di Download
-<img src="https://github.com/vrhasya/666/blob/master/5.png" />
-
-6. Klik Titik 3
-<img src="https://github.com/vrhasya/666/blob/master/6.png" />
-
-7. Klik Access Token
-<img src="https://github.com/vrhasya/666/blob/master/7.jpg" />
-
-8. Salin Access Token & Tempel di Termux😎👌
-<img src="https://github.com/vrhasya/666/blob/master/8.png" />
-
 ## MY SOCIAL MEDIA
 [![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/Yayan-XD)
 [![Twitter](https://img.shields.io/badge/twitter-Ikuti-green?style=for-the-badge&logo=Twitter)](https://mobile.twitter.com/moch_xd)
